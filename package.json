@@ -1,5 +1,5 @@
 {
-  "name": "graphs",
+  "name": "game-of-life",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
